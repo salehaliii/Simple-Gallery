@@ -5,10 +5,10 @@
     <string name="edit">تعديل</string>
     <string name="open_camera">فتح الكاميرا</string>
     <string name="hidden">(مخفية)</string>
-    <string name="excluded">(excluded)</string>
+    <string name="excluded">(مستبعد)</string>
     <string name="pin_folder">تثبيت المجلد</string>
     <string name="unpin_folder">ازالة تثبيت الملف</string>
-    <string name="pin_to_the_top">Pin to the top</string>
+    <string name="pin_to_the_top">تثبيت في الأعلى</string>
     <string name="show_all">عرض كل محتوى المجلدات</string>
     <string name="all_folders">كل المجلدات</string>
     <string name="folder_view">التبديل إلى عرض المجلد</string>
@@ -22,22 +22,22 @@
     <string name="use_default">استخدم الافتراضي</string>
     <string name="volume">الصوت</string>
     <string name="brightness">السطوع</string>
-    <string name="lock_orientation">غلق الاتجاه</string>
+    <string name="lock_orientation">تأمين الإتجاه</string>
     <string name="unlock_orientation">فتح الاتجاه</string>
-    <string name="change_orientation">Change orientation</string>
-    <string name="force_portrait">Force portrait</string>
-    <string name="force_landscape">Force landscape</string>
-    <string name="use_default_orientation">Use default orientation</string>
-    <string name="fix_date_taken">Fix Date Taken value</string>
-    <string name="fixing">Fixing…</string>
-    <string name="dates_fixed_successfully">Dates fixed successfully</string>
+    <string name="change_orientation">تغيير الإتجاه</string>
+    <string name="force_portrait">أفقي بالقوة</string>
+    <string name="force_landscape">عمودي بالقوة</string>
+    <string name="use_default_orientation">إستخدام الإتجاه الإفتراضي</string>
+    <string name="fix_date_taken">إصلاح قيمة تاريخ الإلقاط</string>
+    <string name="fixing">جاري الإصلاح…</string>
+    <string name="dates_fixed_successfully">تم إصلاح التواريخ بنجاح</string>
 
     <!-- Filter -->
-    <string name="filter_media">فلتر الميديا</string>
+    <string name="filter_media">فلترة الوسائط</string>
     <string name="images">الصور</string>
     <string name="videos">الفديوهات</string>
     <string name="gifs">الصور المتحركة</string>
-    <string name="raw_images">RAW images</string>
+    <string name="raw_images">صور RAW</string>
     <string name="svgs">SVGs</string>
     <string name="no_media_with_filters">لم يتم العثور على ملفات وسائط مع الفلاتر المحددة</string>
     <string name="change_filters_underlined"><u >تغيير الفلاتر</u></string>
